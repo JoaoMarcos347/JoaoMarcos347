@@ -42,7 +42,7 @@ I believe well-applied technology solves real problems — and that's what drive
 
 ## Projetos em Destaque
 
-### [ImportaREST GO](https://github.com/JoaoMarcos347)
+### [ImportaREST GO](https://github.com/CrosaraTech/importarest-go)
 
 Plataforma de automacao fiscal que converte NFS-e (XMLs) em arquivos TXT para importacao no ISS.NET.
 
@@ -52,8 +52,6 @@ Plataforma de automacao fiscal que converte NFS-e (XMLs) em arquivos TXT para im
 - Dual deployment **desktop/web** com fidelidade byte-a-byte validada por regressao
 
 **Stack:** FastAPI | Python | Supabase | pgvector | JWT
-
-> Repositorio privado — disponivel para avaliacao mediante solicitacao.
 
 ---
 

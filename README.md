@@ -86,11 +86,22 @@ Checkout page com validacao em tempo real e automacao de formularios.
 
 <p align="center">
   <img src="https://github-readme-stats-psi-virid.vercel.app/api?username=JoaoMarcos347&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-psi-virid.vercel.app/api/top-langs/?username=JoaoMarcos347&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats-psi-virid.vercel.app/api/top-langs/?username=JoaoMarcos347&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Most Used Languages" height="170" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JoaoMarcos347&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</p>
+
+## Repositorios em Destaque
+
+<p align="center">
+  <a href="https://github.com/JoaoMarcos347/CineVault">
+    <img src="https://github-readme-stats-psi-virid.vercel.app/api/pin/?username=JoaoMarcos347&repo=CineVault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/JoaoMarcos347/NexoPay">
+    <img src="https://github-readme-stats-psi-virid.vercel.app/api/pin/?username=JoaoMarcos347&repo=NexoPay&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
 </p>
 
 ---

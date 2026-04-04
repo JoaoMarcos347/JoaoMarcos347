@@ -53,9 +53,11 @@ Plataforma de automacao fiscal que converte NFS-e (XMLs) em arquivos TXT para im
 
 **Stack:** FastAPI | Python | Supabase | pgvector | JWT
 
+> Repositorio privado — disponivel para avaliacao mediante solicitacao.
+
 ---
 
-### [CineVault](https://github.com/JoaoMarcos347)
+### [CineVault](https://github.com/JoaoMarcos347/CineVault)
 
 App de colecao pessoal de filmes com foco em experiencia do usuario e acessibilidade.
 
@@ -68,7 +70,7 @@ App de colecao pessoal de filmes com foco em experiencia do usuario e acessibili
 
 ---
 
-### [NexoPay](https://github.com/JoaoMarcos347)
+### [NexoPay](https://github.com/JoaoMarcos347/NexoPay)
 
 Checkout page com validacao em tempo real e automacao de formularios.
 
@@ -83,8 +85,8 @@ Checkout page com validacao em tempo real e automacao de formularios.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoMarcos347&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcos347&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800&langs_count=8" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats-psi-virid.vercel.app/api?username=JoaoMarcos347&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-psi-virid.vercel.app/api/top-langs/?username=JoaoMarcos347&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" height="170" />
 </p>
 
 <p align="center">
@@ -100,7 +102,7 @@ Checkout page com validacao em tempo real e automacao de formularios.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
   </a>
   <a href="mailto:joaomarcos2002347@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=fff" alt="Email" />
   </a>
 </p>
 

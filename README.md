@@ -3,7 +3,7 @@
 **Engenheiro de Computacao | Fullstack & Automacao**
 
 Desenvolvedor fullstack com foco em automacao inteligente e integracoes com IA.  
-Buscando minha primeira vaga remota como fullstack, com visao de longo prazo em **IA aplicada**.
+visao de longo prazo em **IA aplicada**.
 
 Acredito que tecnologia bem aplicada resolve problemas reais — e e isso que me motiva a construir.
 
@@ -14,7 +14,7 @@ Acredito que tecnologia bem aplicada resolve problemas reais — e e isso que me
 **Computer Engineer | Fullstack & Automation**
 
 Fullstack developer focused on intelligent automation and AI integrations.  
-Looking for my first remote fullstack role, with a long-term vision in **applied AI**.
+long-term vision in **applied AI**.
 
 I believe well-applied technology solves real problems — and that's what drives me to build.
 
